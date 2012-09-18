@@ -10,3 +10,11 @@
 *.lai
 *.la
 *.a
+
+# Eclipse stuffs
+/.settings
+/.cproject
+/.project
+
+# build dirs
+/examples/*/build-cli
