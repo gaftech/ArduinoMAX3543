@@ -18,3 +18,4 @@
 
 # build dirs
 /examples/*/build-cli
+/Debug
